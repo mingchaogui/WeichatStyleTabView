@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">妹子说</string>
+    <string name="label_image_viewer">图片查看</string>
+    <string name="action_about">关于</string>
+
+    <string name="btn_sign_in_weibo">一键登录微博</string>
+    <string name="btn_save_to_album">保存到手机</string>
+    <string name="btn_cancel">取消</string>
+
+    <string name="txt_online_status">在线状态</string>
+    <string name="txt_uid">用户ID</string>
+    <string name="txt_screen_name">昵称</string>
+    <string name="txt_description">描述</string>
+    <string name="txt_created_at">创建时间</string>
+    <string name="txt_weihao">微号</string>
+    <string name="txt_gender">性别</string>
+    <string name="txt_location">所在地</string>
+    <string name="txt_blog_url">博客地址</string>
+    <string name="txt_weibo_domain">微博地址</string>
+
+    <string name="tag_bi_followers_count">%s 互粉</string>
+    <string name="tag_followers_count">%s 粉丝</string>
+    <string name="tag_friends_count">%s 关注</string>
+    <string name="tag_statuses_count">%s 微博</string>
+
+    <string name="txt_gender_male">男</string>
+    <string name="txt_gender_female">女</string>
+    <string name="txt_gender_unknown">未知</string>
+
+    <string name="txt_online">在线</string>
+    <string name="txt_offline">离线</string>
+
+    <string name="tab_tweet">微博</string>
+    <string name="tab_focus">关注</string>
+    <string name="tab_self">我</string>
+
+    <string name="tag_exception_code">错误码:%s</string>
+    
+    <string name="msg_image_uri_is_empty">Oops! Image uri is empty.</string>
+    <string name="msg_save_image_to">图片已保存至%s</string>
+    <string name="msg_save_image_failure">图片保存失败</string>
+
+    <string name="http_except_url_is_null">Url 为空!</string>
+    <string name="http_except_illegal_scheme">非法的Scheme</string>
+    <string name="http_except_context_needed">（探测和禁用网络等）需要 Context</string>
+    <string name="http_except_permission_denied">未获取访问网络权限</string>
+    <string name="http_except_client">客户端发生异常</string>
+    <string name="http_except_network_not_avilable">未连接网络</string>
+    <string name="http_except_network_unstable">服务无法访问</string>
+    <string name="http_except_network_disabled">已禁用该网络类型</string>
+    <string name="http_except_server_inner_error">服务器内部异常</string>
+    <string name="http_except_server_reject_client">服务器拒绝或无法提供服务</string>
+    <string name="http_except_redirect_too_much">重定向次数过多</string>
+    <string name="http_except_undefine">未定义的异常</string>
+
+    <string name="image_except_load_failure">图片加载失败</string>
+</resources>

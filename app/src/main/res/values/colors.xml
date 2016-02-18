@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/sina_red_light</color>
+    <color name="colorPrimaryDark">@color/sina_red</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDivider">#e6e6e6</color>
+
+    <color name="sina_red_light">#dd5565</color>
+    <color name="sina_red">#e1242a</color>
+    <color name="placeholder_head">#D1D1D1</color>
+</resources>
